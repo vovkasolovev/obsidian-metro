@@ -1,0 +1,114 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"1 Сокольническая\"",
+      "color": {
+        "a": 1,
+        "rgb": 11143433
+      }
+    },
+    {
+      "query": "path:\"2 Замоскворецкая\"",
+      "color": {
+        "a": 1,
+        "rgb": 1209112
+      }
+    },
+    {
+      "query": "path:\"3 Арбатско-Покровская\"",
+      "color": {
+        "a": 1,
+        "rgb": 1907174
+      }
+    },
+    {
+      "query": "path:\"4 Филёвская\"",
+      "color": {
+        "a": 1,
+        "rgb": 1948863
+      }
+    },
+    {
+      "query": "path:\"5 Кольцевая\"",
+      "color": {
+        "a": 1,
+        "rgb": 3812396
+      }
+    },
+    {
+      "query": "path:\"6 Калужско-Рижская\"",
+      "color": {
+        "a": 1,
+        "rgb": 15822596
+      }
+    },
+    {
+      "query": "path:\"7 Таганско-Краснопресненская\"",
+      "color": {
+        "a": 1,
+        "rgb": 10555299
+      }
+    },
+    {
+      "query": "path:\"8А Калининская\"",
+      "color": {
+        "a": 1,
+        "rgb": 14147666
+      }
+    },
+    {
+      "query": "path:\"8Б Калининская\"",
+      "color": {
+        "a": 1,
+        "rgb": 14869802
+      }
+    },
+    {
+      "query": "path:\"9 Серпуховско-Тимирязевская\"",
+      "color": {
+        "a": 1,
+        "rgb": 7895165
+      }
+    },
+    {
+      "query": "path:\"10 Люблинско-Дмитровская\"",
+      "color": {
+        "a": 1,
+        "rgb": 9290265
+      }
+    },
+    {
+      "query": "path:\"11 Большая кольцевая\"",
+      "color": {
+        "a": 1,
+        "rgb": 6669292
+      }
+    },
+    {
+      "query": "path:\"12 Бутовская\"",
+      "color": {
+        "a": 1,
+        "rgb": 11445456
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.50875,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.133333333333333,
+  "repelStrength": 11.0833333333333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.09848280774618048,
+  "close": false
+}
